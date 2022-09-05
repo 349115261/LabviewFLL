@@ -12,3 +12,7 @@ Updated Labview M01 Mission
 
 9/5/2022, @ 9:25AM
 Added Labview M02 Mission
+
+9/5/2022, @ 9:30AM
+Updated Labview M01 Mission,
+Updated Labview M02 Mission
